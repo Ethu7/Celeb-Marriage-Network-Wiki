@@ -13,7 +13,7 @@ Download scrapy using pip install command in the cli:
 pip install scrapy
 ```
 ```
-conda install -c conda-forge scrapy A step by step series of examples that tell you how to get a development env running
+conda install -c conda-forge scrapy 
 ```
 Similarly download pandas for data manipulation and quick analysis:
 ```
