@@ -1,5 +1,5 @@
-# Hollywood Influence 
-Project to understand the evolution through time of connections and influence made by actors and actresses.
+# Marriage Network 
+Project to understand the evolution through time of connections made by actors and the propagating effects.
 With a goal to improve my scraping skills and analyze a unique dataset.
 Plans to predict length of newly married couples relationship.
 ## Getting Started
@@ -35,9 +35,8 @@ Add additional notes about how to deploy this on a live system
 
 ## Built With
 
-* [Scrapy](http://www.dropwizard.io/1.0.2/docs/) - The web framework used
-* [Pandas](https://maven.apache.org/) - Dependency Management
+* [Scrapy](https://scrapy.org/) - Web crawler
+* [Pandas](https://pandas.pydata.org/) - Python Data Analysis Library
 
 
-## Acknowledgments
 
